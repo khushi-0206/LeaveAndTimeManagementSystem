@@ -1,0 +1,11 @@
+D:\dotNet\LeaveAndTimeManagementSystem\AuthService.Domain\bin\Debug\net10.0\AuthService.Domain.deps.json
+D:\dotNet\LeaveAndTimeManagementSystem\AuthService.Domain\bin\Debug\net10.0\AuthService.Domain.dll
+D:\dotNet\LeaveAndTimeManagementSystem\AuthService.Domain\bin\Debug\net10.0\AuthService.Domain.pdb
+D:\dotNet\LeaveAndTimeManagementSystem\AuthService.Domain\obj\Debug\net10.0\AuthService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotNet\LeaveAndTimeManagementSystem\AuthService.Domain\obj\Debug\net10.0\AuthService.Domain.AssemblyInfoInputs.cache
+D:\dotNet\LeaveAndTimeManagementSystem\AuthService.Domain\obj\Debug\net10.0\AuthService.Domain.AssemblyInfo.cs
+D:\dotNet\LeaveAndTimeManagementSystem\AuthService.Domain\obj\Debug\net10.0\AuthService.Domain.csproj.CoreCompileInputs.cache
+D:\dotNet\LeaveAndTimeManagementSystem\AuthService.Domain\obj\Debug\net10.0\AuthService.Domain.dll
+D:\dotNet\LeaveAndTimeManagementSystem\AuthService.Domain\obj\Debug\net10.0\refint\AuthService.Domain.dll
+D:\dotNet\LeaveAndTimeManagementSystem\AuthService.Domain\obj\Debug\net10.0\AuthService.Domain.pdb
+D:\dotNet\LeaveAndTimeManagementSystem\AuthService.Domain\obj\Debug\net10.0\ref\AuthService.Domain.dll
