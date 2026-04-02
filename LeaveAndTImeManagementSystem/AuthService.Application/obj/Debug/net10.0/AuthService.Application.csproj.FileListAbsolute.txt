@@ -1,0 +1,15 @@
+D:\dotNet\LeaveAndTimeManagementSystem\AuthService.Application\bin\Debug\net10.0\AuthService.Application.deps.json
+D:\dotNet\LeaveAndTimeManagementSystem\AuthService.Application\bin\Debug\net10.0\AuthService.Application.dll
+D:\dotNet\LeaveAndTimeManagementSystem\AuthService.Application\bin\Debug\net10.0\AuthService.Application.pdb
+D:\dotNet\LeaveAndTimeManagementSystem\AuthService.Application\bin\Debug\net10.0\AuthService.Domain.dll
+D:\dotNet\LeaveAndTimeManagementSystem\AuthService.Application\bin\Debug\net10.0\AuthService.Domain.pdb
+D:\dotNet\LeaveAndTimeManagementSystem\AuthService.Application\obj\Debug\net10.0\AuthService.Application.csproj.AssemblyReference.cache
+D:\dotNet\LeaveAndTimeManagementSystem\AuthService.Application\obj\Debug\net10.0\AuthService.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotNet\LeaveAndTimeManagementSystem\AuthService.Application\obj\Debug\net10.0\AuthService.Application.AssemblyInfoInputs.cache
+D:\dotNet\LeaveAndTimeManagementSystem\AuthService.Application\obj\Debug\net10.0\AuthService.Application.AssemblyInfo.cs
+D:\dotNet\LeaveAndTimeManagementSystem\AuthService.Application\obj\Debug\net10.0\AuthService.Application.csproj.CoreCompileInputs.cache
+D:\dotNet\LeaveAndTimeManagementSystem\AuthService.Application\obj\Debug\net10.0\AuthServ.67992DEE.Up2Date
+D:\dotNet\LeaveAndTimeManagementSystem\AuthService.Application\obj\Debug\net10.0\AuthService.Application.dll
+D:\dotNet\LeaveAndTimeManagementSystem\AuthService.Application\obj\Debug\net10.0\refint\AuthService.Application.dll
+D:\dotNet\LeaveAndTimeManagementSystem\AuthService.Application\obj\Debug\net10.0\AuthService.Application.pdb
+D:\dotNet\LeaveAndTimeManagementSystem\AuthService.Application\obj\Debug\net10.0\ref\AuthService.Application.dll
